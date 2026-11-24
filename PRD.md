@@ -203,7 +203,7 @@ These issues will be examined during the pilot phase.
 5. Build and conduct a limited pilot with selected drivers and students
 
 
-12. ##Functional Requirements
+##12. Functional Requirements
 
 Functional requirements describe what the system must do.
 
@@ -217,7 +217,7 @@ Functional requirements describe what the system must do.
 8. Fare Information: The system shall display standard campus transportation fares.
 9. Ride History: Students and drivers shall be able to view their previous rides.
 
-13. ##Non-Functional Requirements
+##13. Non-Functional Requirements
 
 Non-functional requirements describe how well the system should perform.
 
