@@ -1,2 +1,0 @@
-# Trigon-
-Cos 201 
